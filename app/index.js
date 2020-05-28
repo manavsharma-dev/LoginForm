@@ -2,10 +2,10 @@
 import React from 'react';
 
 import ReactDOM from 'react-dom';
-import LoginForm from './src/src/components/LoginForm';
+// import LoginForm from './components/LoginForm';
 
-import { Provider }from 'react-redux';
-import store from './src/src/redux/store';
+// import { Provider }from 'react-redux';
+// import store from './redux/store';
 
 
 
